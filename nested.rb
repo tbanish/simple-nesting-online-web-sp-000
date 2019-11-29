@@ -81,7 +81,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-array = [["LISP", "C"]]
+array = ["LISP", "C"]
 programmer_hash[:yukirhio_matsumoto][:known_for] << "Ruby"
 programmer_hash[:yukirhio_matsumoto][:languages]
 programmer_hash[:dennis_ritchie][:languages] = array
